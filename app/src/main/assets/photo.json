@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "source": "https://i.pinimg.com/originals/98/f6/b8/98f6b886fc9da2f85c3830efb29cc4d6.jpg",
+    "title": "Sunset over the mountains",
+    "description": "A beautiful view of the sun setting over the snow-capped mountains."
+  },
+  {
+    "id": 2,
+    "source": "https://i.pinimg.com/originals/6a/f9/87/6af987ede24a3cf1454bf5ddaa90b0a5.jpg",
+    "title": "Flowers in the garden",
+    "description": "A colorful display of various flowers in a well-maintained garden."
+  },
+  {
+    "id": 3,
+    "source": "https://i.pinimg.com/originals/b8/34/8f/b8348fa6b02a06fd0dce3ec6977291ae.jpg",
+    "title": "City skyline at night",
+    "description": "A stunning view of the city skyline with all the lights on at night."
+  },
+  {
+    "id": 4,
+    "source": "https://i.pinimg.com/originals/81/86/06/818606ad29883e13a9b2e7020e952c5d.jpg",
+    "title": "Beach paradise",
+    "description": "A tranquil beach with crystal-clear waters and palm trees swaying in the breeze."
+  },
+  {
+    "id": 5,
+    "source": "https://i.pinimg.com/originals/f4/1e/e9/f41ee92162cf7cade6e7f64fafe601e0.png",
+    "title": "Mountain lake",
+    "description": "A serene mountain lake surrounded by lush green trees and towering peaks."
+  },
+  {
+    "id": 6,
+    "source": "https://i.pinimg.com/originals/bc/a6/22/bca6228994bcb95bdcdc3a8506c301b5.jpg",
+    "title": "Golden hour in the city",
+    "description": "A warm, golden hour view of the city streets with tall buildings and bustling traffic."
+  },
+  {
+    "id": 7,
+    "source": "https://i.pinimg.com/originals/bc/a6/22/bca6228994bcb95bdcdc3a8506c301b5.jpg",
+    "title": "Golden hour in the city",
+    "description": "A warm, golden hour view of the city streets with tall buildings and bustling traffic."
+  },
+  {
+    "id": 8,
+    "source": "https://i.pinimg.com/originals/bc/a6/22/bca6228994bcb95bdcdc3a8506c301b5.jpg",
+    "title": "Golden hour in the city",
+    "description": "A warm, golden hour view of the city streets with tall buildings and bustling traffic."
+  }
+]
